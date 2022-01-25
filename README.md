@@ -4,7 +4,8 @@ The project an animated marker on the map to highlight the bus routes between MT
 
 # Step to Run the project
 
-# Step 1: click the “show stops between MT and Harvard” buttonto make marker moves from MT and Harvard  bus routes.
+# Step 1: 
+click the “show stops between MT and Harvard” buttonto make marker moves from MT and Harvard  bus routes.
 
 Future improvement 
 
